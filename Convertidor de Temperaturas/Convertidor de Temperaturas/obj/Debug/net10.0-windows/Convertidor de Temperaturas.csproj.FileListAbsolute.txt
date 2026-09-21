@@ -1,0 +1,16 @@
+C:\Users\ALUMNO-29\source\repos\Convertidor de Temperaturas\Convertidor de Temperaturas\bin\Debug\net10.0-windows\Convertidor de Temperaturas.exe
+C:\Users\ALUMNO-29\source\repos\Convertidor de Temperaturas\Convertidor de Temperaturas\bin\Debug\net10.0-windows\Convertidor de Temperaturas.deps.json
+C:\Users\ALUMNO-29\source\repos\Convertidor de Temperaturas\Convertidor de Temperaturas\bin\Debug\net10.0-windows\Convertidor de Temperaturas.runtimeconfig.json
+C:\Users\ALUMNO-29\source\repos\Convertidor de Temperaturas\Convertidor de Temperaturas\bin\Debug\net10.0-windows\Convertidor de Temperaturas.dll
+C:\Users\ALUMNO-29\source\repos\Convertidor de Temperaturas\Convertidor de Temperaturas\bin\Debug\net10.0-windows\Convertidor de Temperaturas.pdb
+C:\Users\ALUMNO-29\source\repos\Convertidor de Temperaturas\Convertidor de Temperaturas\obj\Debug\net10.0-windows\Convertidor_de_Temperaturas.Form1.resources
+C:\Users\ALUMNO-29\source\repos\Convertidor de Temperaturas\Convertidor de Temperaturas\obj\Debug\net10.0-windows\Convertidor de Temperaturas.csproj.GenerateResource.cache
+C:\Users\ALUMNO-29\source\repos\Convertidor de Temperaturas\Convertidor de Temperaturas\obj\Debug\net10.0-windows\Convertidor de Temperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO-29\source\repos\Convertidor de Temperaturas\Convertidor de Temperaturas\obj\Debug\net10.0-windows\Convertidor de Temperaturas.AssemblyInfoInputs.cache
+C:\Users\ALUMNO-29\source\repos\Convertidor de Temperaturas\Convertidor de Temperaturas\obj\Debug\net10.0-windows\Convertidor de Temperaturas.AssemblyInfo.cs
+C:\Users\ALUMNO-29\source\repos\Convertidor de Temperaturas\Convertidor de Temperaturas\obj\Debug\net10.0-windows\Convertidor de Temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO-29\source\repos\Convertidor de Temperaturas\Convertidor de Temperaturas\obj\Debug\net10.0-windows\Convertidor de Temperaturas.dll
+C:\Users\ALUMNO-29\source\repos\Convertidor de Temperaturas\Convertidor de Temperaturas\obj\Debug\net10.0-windows\refint\Convertidor de Temperaturas.dll
+C:\Users\ALUMNO-29\source\repos\Convertidor de Temperaturas\Convertidor de Temperaturas\obj\Debug\net10.0-windows\Convertidor de Temperaturas.pdb
+C:\Users\ALUMNO-29\source\repos\Convertidor de Temperaturas\Convertidor de Temperaturas\obj\Debug\net10.0-windows\Convertidor de Temperaturas.genruntimeconfig.cache
+C:\Users\ALUMNO-29\source\repos\Convertidor de Temperaturas\Convertidor de Temperaturas\obj\Debug\net10.0-windows\ref\Convertidor de Temperaturas.dll
